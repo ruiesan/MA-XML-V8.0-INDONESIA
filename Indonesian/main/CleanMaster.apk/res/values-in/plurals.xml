@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d menit lalu</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d jam lalu</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d hari lalu</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">%1$d orang telah mengunduh</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">%1$d orang telah mengunduh</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">%1$d orang telah mengunduh</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d dilihat</item>
+    </plurals>
+    <plurals name="hint_similar_image_header_left">
+        <item quantity="other">%d grup</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_confirm">
+        <item quantity="other">Hapus %d foto?</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_from_all_devices_confirm">
+        <item quantity="other">Hapus %1$s foto dari semua perangkat?</item>
+    </plurals>
+    <plurals name="deepclean_cache_summary">
+        <item quantity="other">Anda dapat bersihkan data tak penting untuk %d apl</item>
+    </plurals>
+    <plurals name="deepclean_app_summary">
+        <item quantity="other">%d apl terinstal, Anda dapat hapus apl yang jarang dipakai</item>
+    </plurals>
+    <plurals name="deepclean_large_summary">
+        <item quantity="other">%d berkas besar ditemukan, Anda dapat hapus yang tak penting</item>
+    </plurals>
+    <plurals name="deepclean_similar_summary">
+        <item quantity="other">%d foto ditemukan, Anda dapat hapus foto duplikat atau berlebihan</item>
+    </plurals>
+    <plurals name="deepclean_apk_summary">
+        <item quantity="other">%d Paket Aplikasi (APK) ditemukan, Anda dapat hapus yang tak berguna.</item>
+    </plurals>
+    <plurals name="deepclean_video_summary">
+        <item quantity="other">%d video ditemukan, Anda dapat hapus yang tak berguna.​</item>
+    </plurals>
+    <plurals name="deepclean_install_info_desc1">
+        <item quantity="other">%d apl terinstal</item>
+    </plurals>
+    <plurals name="wechat_copy_video_failed_dialog_msg">
+        <item quantity="other">Tidak dapat ekspor %d video. Bebaskan ruang dan coba lagi.</item>
+    </plurals>
+    <plurals name="wechat_empty_files">
+        <item quantity="other">(%1$d berkas kosong) %2$s</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">Tidak dipakai dalam %d hari</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">Tidak dipakai dalam %d bulan</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">Tidak dipakai dalam %d tahun</item>
+    </plurals>
+    <plurals name="resutl_function_install_app_summary">
+        <item quantity="other">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> apl sudah lama tidak dipakai.;&lt;/Data></item>
+    </plurals>
+</resources>
