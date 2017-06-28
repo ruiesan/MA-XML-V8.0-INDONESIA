@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install">Instal</string>
+    <string name="installing">Menginstal…</string>
+    <string name="launch">Buka</string>
+    <string name="carddownloading">Batal</string>
+    <string name="pass">Lewati</string>
+    <string name="downloading">Mengunduh</string>
+    <string name="download_retry">Tidak dapat unduh, coba lagi.</string>
+    <string name="install_retry">Tidak dapat instal, coba lagi.</string>
+    <string name="installed">berhasil diinstal.</string>
+    <string name="start_download">Mengunduh</string>
+    <string name="waiting">Menunggu</string>
+    <string name="introduction">Tentang layanan iklan</string>
+    <string name="dismiss">Saya tidak mau lihat ini</string>
+    <string name="provider_title">Penyedia iklan</string>
+    <string name="dismiss_reason_title">Mengapa Anda tidak mau melihat iklan ini?</string>
+    <string name="no_interest">Tidak tertarik</string>
+    <string name="ad_too_much">Terlalu sering muncul</string>
+    <string name="bad_content">Isinya tidak berkualitas</string>
+    <string name="ad_service_introduction">Tentang layanan iklan</string>
+    <string name="loading">Tunggu sebentar…</string>
+    <string name="feedback_information">Terima kasih atas masukan Anda.</string>
+    <string name="ERROR_FILE_ERROR">Berkas bermasalah</string>
+    <string name="ERROR_UNHANDLED_HTTP_CODE">Kode HTTP bermasalah</string>
+    <string name="ERROR_HTTP_DATA_ERROR">Data HTTP bermasalah</string>
+    <string name="ERROR_TOO_MANY_REDIRECTS">Terlalu banyak pengalihan</string>
+    <string name="ERROR_INSUFFICIENT_SPACE">Ruang penyimpanan tidak cukup</string>
+    <string name="ERROR_DEVICE_NOT_FOUND">Tidak dapat menemukan perangkat</string>
+    <string name="ERROR_CANNOT_RESUME">Tidak dapat melanjutkan</string>
+    <string name="ERROR_FILE_ALREADY_EXISTS">Berkas sudah ada</string>
+    <string name="PAUSED_WAITING_TO_RETRY">Terganggu, coba lagi</string>
+    <string name="PAUSED_WAITING_FOR_NETWORK">Tidak dapat terhubung ke jaringan</string>
+    <string name="PAUSED_QUEUED_FOR_WIFI">Tidak dapat terhubung ke Wi-Fi</string>
+    <string name="PAUSED_UNKNOWN">Terjadi kesalahan yang tak diketahui</string>
+    <string name="skip_ad">Lewati</string>
+    <string name="ad_flag_text">Iklan</string>
+    <string name="mimo_download_card_title">Perhatian</string>
+    <string name="mimo_download_card_info">Mengunduh info…</string>
+    <string name="mimo_download_card_hide">Sembunyikan</string>
+    <string name="mimo_download_card_cancel">Batal</string>
+    <string name="mimo_notification_title">Mengunduh plug-in</string>
+    <string name="mimo_notification_download_fail">Tidak dapat mengunduh</string>
+    <string name="app_installed_notification_description">has been installed, come and experience it</string>
+</resources>
