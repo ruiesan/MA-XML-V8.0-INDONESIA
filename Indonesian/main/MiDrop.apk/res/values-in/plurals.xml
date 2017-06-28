@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sender_file_num">
+        <item quantity="other">Menunggu %1$d berkas…</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%2$d berkas dari %1$s</item>
+    </plurals>
+    <plurals name="receiver_file_current">
+        <item quantity="other">Menerima %2$d berkas dari %1$s…</item>
+    </plurals>
+    <plurals name="receiver_pic_file_num">
+        <item quantity="other">%2$d gambar dari %1$s</item>
+    </plurals>
+    <plurals name="receiver_pic_file_current">
+        <item quantity="other">Menerima %2$d gambar dari %1$s…</item>
+    </plurals>
+    <plurals name="receiver_audio_file_num">
+        <item quantity="other">%2$d​ lagu dari %1$s</item>
+    </plurals>
+    <plurals name="receiver_audio_file_current">
+        <item quantity="other">Menerima %2$d lagu dari %1$s…</item>
+    </plurals>
+    <plurals name="receiver_video_file_num">
+        <item quantity="other">%2$d​ video dari %1$s</item>
+    </plurals>
+    <plurals name="receiver_video_file_current">
+        <item quantity="other">Menerima %2$d​ video dari %1$s…</item>
+    </plurals>
+    <plurals name="receiver_apk_file_num">
+        <item quantity="other">%2$d​ apl dari %1$s</item>
+    </plurals>
+    <plurals name="receiver_apk_file_current">
+        <item quantity="other">Menerima %2$d​ apl dari %1$s…</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">Menerima %1$s berkas…</item>
+    </plurals>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">%1$s berkas tidak tertransfer</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">Berhasil menerima %1$s berkas</item>
+    </plurals>
+</resources>
