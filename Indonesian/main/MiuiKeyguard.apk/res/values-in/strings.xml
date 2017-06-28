@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete">Hapus</string>
+    <string name="unlockscreen_recharging_message">Mengisi %d%%</string>
+    <string name="unlockscreen_recharge_completed">Baterai penuh</string>
+    <string name="unlockscreen_low_battery">Hubung ke pengisi daya</string>
+    <string name="lockscreen_charging_msg">Mengisi</string>
+    <string name="emergency_call_string">Darurat</string>
+    <string name="forget_password_string">Lupa sandi</string>
+    <string name="input_puk_code">Masukkan PUK</string>
+    <string name="unlocking_sim_card">Membuka kartu SIM</string>
+    <string name="input_pin_code">Masukkan PIN</string>
+    <string name="incorrect_pukcode_remaining_attempts">Kode PUK salah, upaya yang tersisa %d</string>
+    <string name="incorrect_pincode_remaining_attempts">Kode PIN salah, upaya yang tersisa %d</string>
+    <string name="incorrect_pukcode">Kode PUK salah</string>
+    <string name="incorrect_pincode">Kode PIN salah</string>
+    <string name="open_wifi_settings">Koneksi jaringan terbuka</string>
+    <string name="lock_screen_date">EEEE, d MMMM</string>
+    <string name="lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="lockscreen_glogin_password_hint">Sandi</string>
+    <string name="lockscreen_glogin_checking_password">Memeriksa…</string>
+    <string name="login_website_in_case_forget_password">Untuk setel ulang sandi, pergi ke www.mi.com/micloud</string>
+    <string name="lockscreen_glogin_invalid_input">Nama pengguna atau sandi tidak valid.</string>
+    <string name="find_device_turn_off_flight_mode">Matikan mode pesawat</string>
+    <string name="phone_locked_string">Telepon terkunci</string>
+    <string name="phone_locked_timeout_seconds_string">Coba lagi setelah %s detik</string>
+    <string name="phone_locked_timeout_minutes_string">Coba lagi setelah %s menit</string>
+    <string name="lockscreen_glogin_submit_button">Masuk</string>
+    <string name="phone_locked_foget_password">Lupa sandi?</string>
+    <string name="phone_locked_foget_password_header">Apa yang harus saya lakukan jika lupa sandi?</string>
+    <string name="phone_locked_foget_password_content">"Anda bisa masuk ke i.mi.com menggunakan Akun Mi yang tertaut dengan perangkat, dan bersihkan semua data. Hal ini dapat menghapus semua data pribadi yang tersimpan di perangkat. Setelahnya, Anda dapat mulai ulang perangkat dan pulihkan kontak, pesan, foto, dan berkas lainnya dari Mi Cloud. 
+
+Untuk dapat melakukan hal di atas, Anda harus masuk ke Akun Mi di perangkat ini. Jika tidak, Anda harus flash perangkat lagi."</string>
+    <string name="phone_locked_foget_password_footer">"Langkah:
+Masuk ke i.mi.com, ke bagian \"Cari perangkat\", pilih perangkat dan tekan \"Hapus perangkat\"."</string>
+    <string name="phone_locked_foget_password_ok">Mengerti</string>
+    <string name="lockscreen_access_pattern_start">Pola dimulai</string>
+    <string name="lockscreen_access_pattern_cleared">Pola dibersihkan</string>
+    <string name="lockscreen_access_pattern_cell_added">Sel ditambahkan</string>
+    <string name="lockscreen_access_pattern_detected">Pola selesai</string>
+    <string name="default_lockscreen_unlock_hint_text">Geser ke atas untuk buka</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Anda telah salah memasukkan sandi %d kali. Setelah %d upaya gagal lagi, Anda akan diminta untuk buka kunci telepon menggunakan Akun Mi Anda.
+
+ Coba lagi setelah %d detik."</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Anda telah melakukan kesalahan saat buka kunci telepon %d kali. Setelah %d upaya gagal lagi, telepon akan disetel ulang ke setelan pabrik dan semua data pengguna akan hilang.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Anda telah melakukan kesalahan saat buka kunci telepon %d kali. Telepon akan disetel ulang ke setelan pabrik.</string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">Terbuka dgn perangkat Bluetooth</string>
+    <string name="wrong_password">Sandi salah</string>
+    <string name="keyguard_torch_cover_text">Agar senter tetap hidup, tahan tombol Daya</string>
+    <string name="confirm_pin_msg">Masukkan PIN lagi</string>
+    <string name="invalid_confirm_pin_hint">PIN tidak cocok</string>
+    <string name="unlock_string">Buka kunci</string>
+    <string name="open_camera_hint_text">Usap ke kiri untuk buka %s</string>
+    <string name="open_remote_center_hint_text">Usap ke kanan untuk buka %s</string>
+    <string name="left_action_default_hint_text">Mi Remote</string>
+    <string name="click_to_enter_text">Ketuk utk lihat</string>
+    <string name="fingerprint_try_again_text">Coba lagi</string>
+    <string name="fingerprint_try_again_msg">Tidak dapat verifikasi sidik jari, coba lagi.</string>
+    <string name="fingerprint_not_identified_title">Masukkan sandi</string>
+    <string name="fingerprint_not_identified_msg">Terlalu banyak upaya gagal. Masukkan sandi atau coba gunakan sidik jari setelah %d detik lagi.</string>
+    <string name="fingerprint_again_identified_msg">Sidik jari Anda telah aktif. Gunakan untuk buka kunci perangkat atau masukkan sandi.</string>
+    <string name="fingerprint_add_title">Tambah sidik jari</string>
+    <string name="fingerprint_add_text">Antarmuka sidik jari telah diperbarui. Tambahkan sidik jari lagi.</string>
+    <string name="invalid_sim_pin_hint">PIN harus terdiri dari 4-8 angka</string>
+    <string name="invalid_sim_puk_hint">PUK harus terdiri dari minimal 8 angka</string>
+    <string name="input_password_hint_text">Masukkan sandi</string>
+    <string name="input_pattern_hint_text">Gambar pola untuk buka kunci</string>
+    <string name="input_password_after_boot_msg">Untuk buka kunci perangkat, masukkan sandi</string>
+    <string name="input_password_after_boot_msg_must_enter_owner_space">Anda harus masuk ke Ruang pertama setelah perangkat dimulai ulang</string>
+    <string name="accessibility_enter_lock_wallpaper">Ketuk untuk buka Komedi putar Wallpaper</string>
+    <string name="lock_wallpaper_learn_more">Lainnya</string>
+    <string name="lock_wallpaper_enter">Masuk</string>
+    <string name="custom_lock_wallpaper_enter">Masuk</string>
+    <string name="fingerprint_enter_second_psw_title">Masukkan sandi Ruang kedua</string>
+    <string name="fingerprint_enter_second_psw_msg">Masukkan sandi Ruang kedua setelah mulai ulang perangkat agar dapat menggunakan pengidentifikasian sidik jari</string>
+    <string name="fingerprint_enter_second_psw_msg_oldman">Tidak bisa masuk ke Ruang kedua saat di mode Mudah</string>
+    <string name="keyguard_charging_info_click_to_detail">Lihat rincian</string>
+    <string name="keyguard_quick_charging_info_click_to_detail">Isi daya cepat. Ketuk untuk lihat rincian.</string>
+    <string name="keyguard_quickly_charging_info_charging_text">Isi daya cepat…</string>
+    <string name="keyguard_charging_info_finished_charging_text">Baterai penuh</string>
+    <string name="keyguard_charging_info_charging_text">Mengisi daya</string>
+    <string name="keyguard_charging_info_charging_full_need_min_time__text">Sekitar %dmnt lagi penuh​</string>
+    <string name="keyguard_charging_info_charging_full_need_hour_time__text">Sekitar %d jam lagi penuh​</string>
+    <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Sekitar %d jam %d mnt hingga penuh</string>
+    <string name="keyguard_charging_info_could_use_min_time_text">Sisa sekitar %d mnt</string>
+    <string name="keyguard_charging_info_could_use_hour_time_text">Sisa sekitar %d jam</string>
+    <string name="keyguard_charging_info_could_use_time_text" formatted="false">Sisa sekitar %d jam %d mnt</string>
+    <string name="keyguard_charging_info_last_charge_today_time">Hari ini %s</string>
+    <string name="keyguard_charging_info_last_charge_yesterday_time">Kemarin %s</string>
+    <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
+    <string name="keyguard_charging_info_drained_hour_time_format">%d jam</string>
+    <string name="keyguard_charging_info_drained_min_time_format">%d mnt</string>
+    <string name="keyguard_charging_info_drained_time_format" formatted="false">%d jam %dmin</string>
+    <string name="keyguard_charging_info_current_now_text">Monitor waktu nyata</string>
+    <string name="keyguard_charging_info_charging_voltage_text">Voltase</string>
+    <string name="keyguard_charging_info_battery_temperature_text">Suhu baterai</string>
+    <string name="keyguard_charging_info_last_charged_time_text">Terakhir isi daya</string>
+    <string name="keyguard_charging_info_battery_used_time_text">Baterai terpakai</string>
+    <string name="keyguard_charging_info_drained_power_percent_text">Terkuras</string>
+    <string name="keyguard_charging_info_tip_text1">Pastikan baterai selalu 10% terisi agar dapat memperpanjang masa pakai baterai.</string>
+    <string name="keyguard_charging_info_tip_text2">Jangan isi daya terlalu lama. Isi daya sebentar-sebentar atau berulang kali lebih baik dibanding isi daya sepanjang malam.</string>
+    <string name="keyguard_charging_info_tip_text3">Hindari isi daya perangkat saat suhu di sekitar lebih rendah dari 0℃.</string>
+    <string name="keyguard_charging_info_tip_text4">Jangan gunakan perangkat secara aktif saat sedang diisi daya, untuk menghindari perangkat menjadi panas.</string>
+    <string name="keyguard_charging_info_tip_text5">Isi daya bateraiakan lebih lama saat baterai lebih panas dari biasanya.</string>
+    <string name="keyguard_charging_info_tip_text6">Matikan layar dan jangan gunakan perangkat dulu, agar bisa menurunkan suhu perangkat.</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+</resources>
