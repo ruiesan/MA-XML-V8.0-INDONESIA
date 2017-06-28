@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Xiaomi service framework</string>
+    <string name="xmsf_activate_info">Info aktivasi XMSF</string>
+    <string name="error_device_id_title">"Can't get a valid device ID"</string>
+    <string name="error_device_id_message">"Invalid device ID: %s
+Device ID must be a valid IMEI or MAC address. Without device ID, some Mi Account and Mi Cloud features won't be available."</string>
+    <string name="accept">Oke</string>
+    <string name="xiaomi_cloud_service">Mi Cloud</string>
+    <string name="sync_notification_title_format">Saat ini sinkron: %1$s</string>
+    <string name="explain_send_sms_permission_title">Verifikasi nomor telepon Anda</string>
+    <string name="explain_send_sms_permission_msg">Untuk mengaktifkan %s, Kerangka Layanan Xiaomi akan mengirimkan SMS untuk verifikasi nomor telepon Anda. Anda akan dikenakan biaya untuk SMS reguler oleh operator.</string>
+    <string name="explain_send_sms_permission_button">Verifikasi</string>
+</resources>
