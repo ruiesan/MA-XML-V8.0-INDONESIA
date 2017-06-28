@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m_fancy_color_effect_normal">Normal</string>
+    <string name="m_fancy_color_effect_monochrome">Monokrom</string>
+    <string name="m_fancy_color_effect_posterize">Poster</string>
+    <string name="m_fancy_color_effect_radial_blur">Radial blur</string>
+    <string name="m_fancy_color_effect_stroke">Goresan</string>
+    <string name="m_fancy_color_effect_silhouette">Siluet</string>
+    <string name="m_fancy_color_effect_whiteboard">Papan putih</string>
+    <string name="m_fancy_color_effect_blackboard">Papan hitam</string>
+    <string name="m_fancy_color_effect_negative">Negatif</string>
+    <string name="multi_view">3D</string>
+    <string name="refocus">Fokus ulang</string>
+    <string name="background_effect">Efek latar belakang</string>
+    <string name="free_view_tip">Miringkan sedikit telepon untuk lihat efek 3D</string>
+    <string name="refocus_tip">Ketuk foto untuk fokus ulang</string>
+    <string name="fancy_color_tip">Ketuk foto untuk atur titik tajam</string>
+    <string name="loading_tip">Tunggu sebentar…</string>
+    <string name="fancycolor_title">Efek latar belakang</string>
+    <string name="save_dialog_title">Simpan</string>
+    <string name="save_dialog_message">Simpan perubahan sekarang?</string>
+    <string name="saving_image">Menyimpan foto…</string>
+    <string name="saving_image_to_album">Simpan foto ke %1$s…</string>
+    <string name="load_image_error">Tidak dapat memuat foto</string>
+    <string name="wait_error">Tunggu sebentar…</string>
+    <string name="save_error">Tidak dapat menyimpan foto</string>
+    <string name="illegal_arguments_error">Terjadi kesalahan</string>
+    <string name="app_error">Terjadi kesalahan, menutup apl…</string>
+    <string name="cancel">Batal</string>
+    <string name="save">Simpan</string>
+</resources>
